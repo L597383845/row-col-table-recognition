@@ -1,2 +1,2 @@
 # row-col-table-recognition
-time-series row column classification 
+Sequence labeling model for row and column seperators segmentation
